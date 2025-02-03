@@ -1,5 +1,5 @@
 # Настройка удалённого доступа по SSH
-sudo apt update
-sudo apt-get install openssh-server
-sudo systemctl start ssh
+apt update
+apt install openssh-server
+systemctl start ssh
 
